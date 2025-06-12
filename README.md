@@ -25,7 +25,7 @@
 
 ```bash
 /backend-tailwind-projects/
-├── practice/          # Backend tutorials & code practice
-├── tailwind-ui/       # Projects styled with Tailwind
-├── mini-projects/     # Full-stack experiments
+├── Clutier_nodejs/          # Backend tutorials & code practice
+├── /       # Projects styled with Tailwind
+├── /     # Full-stack experiments
 └── README.md
